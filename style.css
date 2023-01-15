@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-color: #EBEBF3;
+   border-radius: 30px solid;
+   width: 720px;
+   height: 460px;
+  
+}
+
+
+#container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    background-attachment:scroll;
+  }
+  
+  #small-circle{
+    margin-top: 15%;
+    margin-left: 35.5%;
+    position: absolute;
+    width: 40%;
+    height: 40%;
+    background-color: #F161A3;
+    border-radius: 50%;
+    background-attachment: fixed;
+
+  }
+  
+  #smallest-circle{
+    margin-top: 35%;
+    margin-left: 88%;
+    position: absolute;
+    width: 55%;
+    height: 55%;
+    background-color: #FA7C64;
+    border-radius: 50%;
+    background-attachment: fixed;
+    
+  }
+
+
+  /* form{
+    width: 200px;
+    height: 300px;
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px #ccc;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+  } */
